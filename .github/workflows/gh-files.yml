@@ -28,5 +28,3 @@ jobs:
         with:
           github_token: ${{ secrets.TOKEN }}
           publish_dir: ./public
-          # external_repository: digitalperiyar/digitalperiyar.github.io
-          publish_branch: main
