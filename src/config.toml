@@ -1,0 +1,4 @@
+baseURL = "http://digitalperiyar.com/"
+languageCode = "en-us"
+title = "Digital Periyar"
+theme = "ananke"
