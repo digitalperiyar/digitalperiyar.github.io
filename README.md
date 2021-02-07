@@ -1,2 +1,2 @@
 # digitalperiyar.com
-digitalperiyar.com website
+digitalperiyar.github.io website
